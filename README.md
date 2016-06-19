@@ -1,5 +1,5 @@
 ==iPhone_jj-Hair-salon
-
+== Techguro Project 
 JJ Hair Salon app is a full service hari salon dedicated to providing excellent service and quality treatment at great value. It is a friendly professional salon and experienced committed to providing you the ravishing hairdo of your desire.
 
 ==Supported Devices
