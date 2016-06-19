@@ -12,3 +12,8 @@ Current version doesn not support iPad 2 and later
 Online Support
 
 This version of App can work without connection to Internet since everything is loaded when you donwload app and there is no relying on database
+
+
+Testing 
+
+To test this app, we need xcode to run it. Define test environemnt in xcode and selecet the device any iphone sizes then run.
